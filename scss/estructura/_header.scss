@@ -1,0 +1,24 @@
+.navbar {
+    background-color: $color-principal;
+}
+
+.navbar-collapse {
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-link {
+    background-color: $color-red;
+    color: $color-white !important;
+    margin: 2px;
+    border: 1px solid $color-white;
+    border-radius: 5px;
+    text-decoration: none; 
+    transition: all 2s;
+}
+
+.nav-link:hover {
+    width: 100px;
+    height: 50px;
+    text-align: center;
+  }

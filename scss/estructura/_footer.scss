@@ -1,0 +1,23 @@
+.pie-pagina {
+    background-color: $color-principal;
+    color: $color-white;
+    width: 100vw;
+    height: 120px;
+    text-align: center;
+    padding-top: 15px;
+    align-items: center;
+    justify-content: center;
+}
+
+
+footer ul li {
+    display: inline-block;  
+}
+
+.icons {
+    align-items: center;
+    justify-content: center;
+    padding-top: 18px;
+    color: white;
+    list-style-type: none;
+}
